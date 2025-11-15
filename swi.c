@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    char day;
+    int day;
     printf("enter day(1-7) : ");
     scanf("%d", &day);
 
